@@ -1,46 +1,19 @@
-# Welcome to CodeInfluencer IT Solution LLP 🌟  
+# Hi, I'm Paras Gediya! 👋  
 
-**Innovative Solutions | Digital Excellence | Reliable Results**  
-
-## About Us  
-
-CodeInfluencer IT Solution LLP is a dynamic team of professionals dedicated to delivering tailored software solutions, cutting-edge digital marketing strategies, and unparalleled customer service. Our goal is to empower businesses with innovative technology, ensuring growth and success in the digital landscape.  
-
-With expertise across multiple domains, we excel in creating seamless web and mobile applications, scalable backend systems, and impactful digital marketing campaigns.  
+**Software Engineer | Backend Specialist | Mobile App Developer**  
+Passionate about building scalable systems, seamless user experiences, and driving digital transformation.
 
 ---
 
-## 💡 Our Services  
-
-### 🌐 Website Development  
-- Custom web applications tailored to your business needs.  
-- Expertise in PHP, Laravel, Node.js, React.js, Shopify, WordPress, and more.  
-
-### 📱 Mobile App Development  
-- Native and cross-platform apps built with Flutter and React Native.  
-- End-to-end solutions for Android and iOS platforms.  
-
-### 🚀 Digital Marketing  
-- SEO and Social Media Marketing strategies to elevate your online presence.  
-- Comprehensive brand analysis and audience growth campaigns.  
-
-### 🔧 API & Backend Development  
-- Scalable and secure APIs built with modern frameworks.  
-- Optimized backend systems for performance and reliability.  
+## 🛠️ About Me  
+With over 7 years of experience in web and mobile app development, I specialize in creating innovative solutions for businesses worldwide. My expertise spans Laravel, Node.js, React.js, Flutter, WordPress, and modern backend systems.
 
 ---
 
-## 🌍 Connect with Us  
-
-Stay updated on our latest projects, tips, and trends in technology and digital marketing:  
-
-- **[LinkedIn](https://www.linkedin.com/company/codeinfluencer)**  
-- **[Facebook](https://www.facebook.com/codeinfluencer)**  
-- **[Instagram](https://www.instagram.com/codeinfluence)**  
-- **[Twitter (X)](https://twitter.com/code_influencer)**  
+## 🔗 Connect With Me  
+- **Upwork:** [Paras Gediya](https://www.upwork.com/freelancers/parasgediya24)  
+- **LinkedIn:** [Paras Gediya](https://www.linkedin.com/in/parasgediya/)  
 
 ---
 
-## 🤝 Join Our Journey  
-
-At CodeInfluencer IT Solution LLP, we believe in building long-term relationships with our clients and collaborators. Explore our repositories, provide your valuable feedback, and let’s create something amazing together!
+💡 Let’s collaborate and create something amazing! Feel free to explore my repositories or get in touch.
